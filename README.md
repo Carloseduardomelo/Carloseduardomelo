@@ -1,7 +1,7 @@
 ### Ola meu nome e Carlos Eduardo 😀
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carloseduardomelo&show_icons=true&theme=radical)
 
 ### tecnologia que uso no dia a dia
 
