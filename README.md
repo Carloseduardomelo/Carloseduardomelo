@@ -27,7 +27,7 @@
 
 <br>
 
-### Apaixonado por tecnologia e jogar jogos eletronicos  💘
+### Apaixonado por tecnologia e jogos eletronicos  💘
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
